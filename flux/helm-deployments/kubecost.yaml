@@ -16,7 +16,7 @@ spec:
       interval: 1m
   values:
     kubecostProductConfigs:
-      clusterName: k8-bluelight-monitoring
+      clusterName: my-k8-cluster
     global:
       thanos:
         enabled: false
