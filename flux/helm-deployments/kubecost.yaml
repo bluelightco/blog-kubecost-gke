@@ -19,7 +19,7 @@ spec:
       enabled: true
     kubecostProductConfigs:
       clusterName: my-k8-cluster
-      projectID: florian-test-297311
+      projectID: florian-test-297317
       bigQueryBillingDataDataset: all_billing_data.gcp_billing_export_v1_01CFD3_461BC7_F1F47F
       serviceKeySecretName: gcp-secret
     global:
