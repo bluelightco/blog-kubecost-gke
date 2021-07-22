@@ -1,4 +1,4 @@
-# learn-kubecost-gke
+# blog-kubecost-gke
 
 Repo used for blogpost about Kubecost on GKE.
 
